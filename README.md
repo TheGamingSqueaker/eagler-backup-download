@@ -22,7 +22,7 @@ My website:
 https://thegamingsqueaker.github.io/eagler/
 
 ------------------------------------------------------------------------------------------
-FEEL FREE TO FORK AND DISTRIBUTE TO KEEP EAGLER CRAFT ALIVE
+FEEL FREE TO FORK AND DISTRIBUTE TO KEEP EAGLERCRAFT ALIVE
 ------------------------------------------------------------------------------------------
 Eaglercraft has no affiliation with Microsoft or Mojang this is not an official release.
 ------------------------------------------------------------------------------------------
