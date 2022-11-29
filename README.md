@@ -17,6 +17,10 @@ https://github.com/TheGamingSqueaker/minecraft
 
 https://github.com/PrecisionClient/eaglercraft
 
+My website:
+
+https://thegamingsqueaker.github.io/eagler/
+
 ------------------------------------------------------------------------------------------
 FEEL FREE TO FORK AND DISTRIBUTE TO KEEP EAGLER CRAFT ALIVE
 ------------------------------------------------------------------------------------------
