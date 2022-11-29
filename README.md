@@ -19,5 +19,7 @@ https://github.com/PrecisionClient/eaglercraft
 
 ------------------------------------------------------------------------------------------
 FEEL FREE TO FORK AND DISTRIBUTE TO KEEP EAGLER CRAFT ALIVE
+------------------------------------------------------------------------------------------
 Eaglercraft has no affiliation with Microsoft or Mojang this is not an official release.
+------------------------------------------------------------------------------------------
 
